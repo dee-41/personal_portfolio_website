@@ -21,23 +21,6 @@
 
 </div>
 
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-| Hero Section | Skills Section |
-|:---:|:---:|
-| ![Hero](./screenshots/hero.png) | ![Skills](./screenshots/skills.png) |
-
-| Projects Section | Contact Section |
-|:---:|:---:|
-| ![Projects](./screenshots/projects.png) | ![Contact](./screenshots/contact.png) |
-
-> 📌 *Add screenshots to a `/screenshots` folder in the root directory to populate the table above.*
-
-</div>
 
 ---
 
@@ -104,98 +87,6 @@ deepakshi-portfolio/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-No dependencies, no package manager, no build step required. All you need is:
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- A text editor (VS Code recommended)
-- Optionally: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VS Code extension for local development
-
-### Local Setup
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/deepakshi/portfolio.git
-cd portfolio
-```
-
-**2. Open in browser**
-
-Simply open `index.html` in your browser:
-
-```bash
-# macOS
-open index.html
-
-# Linux
-xdg-open index.html
-
-# Windows
-start index.html
-```
-
-**Or use Live Server in VS Code:**
-
-```
-Right-click index.html → Open with Live Server
-```
-
-That's it — the portfolio is live at `http://localhost:5500` 🎉
-
----
-
-## 🌐 Deployment
-
-### Deploy to GitHub Pages
-
-**1.** Push your code to a GitHub repository named `username.github.io` or any repo.
-
-**2.** Go to **Settings → Pages**.
-
-**3.** Set the source to the `main` branch, root folder `/`.
-
-**4.** Save — your site will be live at:
-
-```
-https://your-username.github.io/portfolio/
-```
-
----
-
-### Deploy to Netlify
-
-**Option A — Drag & Drop (fastest):**
-
-1. Go to [netlify.com](https://netlify.com) and log in
-2. Drag and drop your project folder onto the Netlify dashboard
-3. Your site is live instantly with a generated URL
-
-**Option B — Connect GitHub repo:**
-
-```bash
-# Push to GitHub first
-git init
-git add .
-git commit -m "🚀 Initial portfolio deployment"
-git branch -M main
-git remote add origin https://github.com/deepakshi/portfolio.git
-git push -u origin main
-```
-
-Then in Netlify: **New site from Git → GitHub → Select repo → Deploy**
-
-**Option C — Netlify CLI:**
-
-```bash
-npm install -g netlify-cli
-netlify login
-netlify deploy --prod --dir .
-```
-
 ---
 
 ## 💼 Projects Showcased
@@ -261,7 +152,7 @@ Enables intelligent, context-aware question answering over book content by combi
 <img src="https://avatars.githubusercontent.com/deepakshi" width="100" style="border-radius:50%" alt="Deepakshi Mathur"/>
 
 ### Deepakshi Mathur
-*Second-year CS Undergrad · VIT Chennai*
+*Second-year ECS Undergrad · VIT Chennai*
 
 *Tech Enthusiast passionate about AI, Web Development & Cybersecurity*
 
