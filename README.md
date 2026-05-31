@@ -17,7 +17,7 @@
 
 > A clean, modern, and fully responsive personal portfolio website built to showcase my skills, projects, and journey as a computer science student — crafted with glassmorphism aesthetics and smooth animations.
 
-**[🌐 Live Demo](https://lambent-meringue-06bb7b.netlify.app)** &nbsp;·&nbsp; **[📬 Contact Me](mailto:deepakshi@example.com)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/deepakshi)** &nbsp;·&nbsp; **[🐙 GitHub](https://github.com/deepakshi)**
+**[🌐 Live Demo](loquacious-squirrel-ec2ad7.netlify.app)** &nbsp;·&nbsp; **[📬 Contact Me](mailto:deepakshi@example.com)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/deepakshi)** &nbsp;·&nbsp; **[🐙 GitHub](https://github.com/deepakshi)**
 
 </div>
 
